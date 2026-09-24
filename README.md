@@ -160,7 +160,7 @@ Continued ownership of **VNGGames Shop** and **VNGGames Card** in an expanded fu
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ngtruongthanh98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngtruongthanh98&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtruongthanh98&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtruongthanh98&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" /> -->
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=ngtruongthanh98&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" /> -->
 
